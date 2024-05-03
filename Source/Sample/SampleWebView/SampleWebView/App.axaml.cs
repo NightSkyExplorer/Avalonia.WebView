@@ -16,7 +16,8 @@ public partial class App : Application
     public override void RegisterServices()
     {
         base.RegisterServices();
-        AvaloniaWebViewBuilder.Initialize(default);
+
+        AvaloniaWebViewBuilder.Initialize(null);
     }
 
     public override void OnFrameworkInitializationCompleted()

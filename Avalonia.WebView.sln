@@ -1,4 +1,3 @@
-﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33626.354
@@ -130,10 +129,10 @@ Global
 		{30D99F05-3765-4E22-9616-908C49C67413}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{30D99F05-3765-4E22-9616-908C49C67413}.Release|Any CPU.Build.0 = Release|Any CPU
 		{30D99F05-3765-4E22-9616-908C49C67413}.Release|Any CPU.Deploy.0 = Release|Any CPU
-		{9CA20CDF-9900-4CC7-8C15-1226DAD84768}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{9CA20CDF-9900-4CC7-8C15-1226DAD84768}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{9CA20CDF-9900-4CC7-8C15-1226DAD84768}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{9CA20CDF-9900-4CC7-8C15-1226DAD84768}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CA20CDF-9900-4CC7-8C15-1226DAD84768}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{9CA20CDF-9900-4CC7-8C15-1226DAD84768}.Debug|Any CPU.Build.0 = Debug|x64
+		{9CA20CDF-9900-4CC7-8C15-1226DAD84768}.Release|Any CPU.ActiveCfg = Release|x64
+		{9CA20CDF-9900-4CC7-8C15-1226DAD84768}.Release|Any CPU.Build.0 = Release|x64
 		{06C080F5-3184-45D8-8CFB-FE796A0E3262}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{06C080F5-3184-45D8-8CFB-FE796A0E3262}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{06C080F5-3184-45D8-8CFB-FE796A0E3262}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
@@ -299,4 +298,7 @@ Global
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {0921EC9A-CD2A-4912-BC79-11B67BBCBDF5}
 	EndGlobalSection
+EndGlobal
+Global
+
 EndGlobal
